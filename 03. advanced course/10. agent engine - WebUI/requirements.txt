@@ -1,0 +1,4 @@
+google-cloud-aiplatform[langchain,reasoningengine]
+google-cloud-storage
+cloudpickle
+streamlit
