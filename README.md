@@ -10,3 +10,14 @@ https://www.youtube.com/playlist?list=PLtHLUuRctkZl08_dDIPO4aR2kGfj5bnW-
 Gemini 고급 : RAG Engine 활용
 
 https://www.youtube.com/playlist?list=PLtHLUuRctkZkbyaADtCHc2MCVz70rocCP
+
+
+Agentspace
+
+https://youtube.com/playlist?list=PLtHLUuRctkZlCWfA6YuNCsvXS6eeIQHbH&si=TYwdAFG2aefjrgqg
+
+
+ADT 완전 정복
+
+https://youtube.com/playlist?list=PLtHLUuRctkZllTZWvbhJFAumm-NF7D1nI&si=9fEPX7VfkTESOXLH
+
