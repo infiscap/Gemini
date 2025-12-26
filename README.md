@@ -18,7 +18,7 @@ Agentspace
 https://youtube.com/playlist?list=PLtHLUuRctkZlCWfA6YuNCsvXS6eeIQHbH
 
 
-ADT 완전 정복
+ADK 완전 정복
 
 https://youtube.com/playlist?list=PLtHLUuRctkZllTZWvbhJFAumm-NF7D1nI
 
